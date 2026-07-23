@@ -3,7 +3,7 @@
 ### 📸 프로젝트 시연 및 이미지
 | STM32 키오스크 & Arduino 반납기 | STM32 키오스크 FSM | 아두이노 무인 반납 MariaDB Data |
 | :---: | :---: | :---: |
-| <img src="이미지주소1" width="100%"> | <img src="이미지주소2" width="100%"> | <img src="이미지주소3" width="100%"> |
+| <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/0dcff5a9-2f3d-4d6a-a609-a858a321c94c" /> | <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/6f93ffca-845b-47ba-9da9-5587ec2f05ef" /> | <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/e25290fe-9dc4-45ca-8477-f28f59644a89" /> |
 | ▲ 키오스크(위) / 반납기(아래) | ▲ 키오스크 FSM 설계도 | ▲ MariaDB 연동 데이터 |
 
 ---
